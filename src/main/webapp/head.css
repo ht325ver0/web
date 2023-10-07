@@ -1,0 +1,8 @@
+@charset "UTF-8";
+header{
+	height:70px;
+	background-color:blue;
+	posision: fixed;
+	width: 100%;
+	z-index:1;
+}
